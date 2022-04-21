@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-21T18:25:29 EDT" name="Default suite" finished-at="2022-04-21T18:25:35 EDT" duration-ms="6175">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T18:25:29 EDT" name="Default test" finished-at="2022-04-21T18:25:35 EDT" duration-ms="6175">
+      <class name="pack3.HandleMultipleWindows">
+        <test-method signature="explicitWaitMechanism()[pri:0, instance:pack3.HandleMultipleWindows@6e20b53a]" started-at="2022-04-21T18:25:29 EDT" name="explicitWaitMechanism" finished-at="2022-04-21T18:25:35 EDT" duration-ms="6149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explicitWaitMechanism -->
+      </class> <!-- pack3.HandleMultipleWindows -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
