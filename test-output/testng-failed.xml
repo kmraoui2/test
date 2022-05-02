@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pack3.HandleMultipleWindows">
+      <class name="pack4.ListPracticeTest">
         <methods>
-          <include name="goToFacebook"/>
+          <include name="accessAlertPopup"/>
         </methods>
-      </class> <!-- pack3.HandleMultipleWindows -->
+      </class> <!-- pack4.ListPracticeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
